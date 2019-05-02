@@ -1,0 +1,22 @@
+{
+  "name": "phaser3tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducanishah/phaser3tutorial.git"
+  },
+  "author": "Duncan Drust",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ducanishah/phaser3tutorial/issues"
+  },
+  "homepage": "https://github.com/ducanishah/phaser3tutorial#readme",
+  "dependencies": {
+    "phaser": "^3.16.2"
+  }
+}
